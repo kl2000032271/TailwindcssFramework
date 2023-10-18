@@ -1,0 +1,5 @@
+/* it contains all the classes in css . we don't add any css properties just we call tailwind css properties */
+
+*{
+    font-family: 'Poppins',sans-serif;
+}
